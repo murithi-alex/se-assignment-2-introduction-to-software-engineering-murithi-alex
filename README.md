@@ -54,19 +54,31 @@ Integration testing enables software testers to test group units integrated into
 System testing is performed on an integrated environment comprising the whole application, where all components are assessed against specific business requirements.
 Acceptance testing involves testing the system’s Functional and Non-functional aspects, such as performance, security, usability, accessibility, compatibility, and reliability.
 It is crucial because it reduces project risk, providing confidence in the software quality, meeting compliance needs, ensuring satisfied users, enabling continuous improvement, and reducing overall costs
+
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code
+They are imortant because they help the developer team to efficiently communicate and manage(track) all the changes that have been made to the source code along with the information like who made and what changes have been made
+Examples: Concurrent Versions System (CVS), Git and Apache Subversion (SVN) 
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+A software project manager is a a person who takes the overall responsibilities to manage the software projects and plays an important role in the successful completion of the projects
+Responsibilities: Project planning which involves estimating several characteristics of a project and then plan the project activities based on these estimations. Project monitoring and control which is significant in making sure that business goals are achieved successfully
+
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software Maintenance refers to the process of modifying and updating a software system after it has been delivered to the customer.
+The goal of software maintenance is to keep the software system working correctly, efficiently, and securely, and to ensure that it continues to meet the needs of the users
+
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Unethical data collection, Weak security, Algorithm bias 
+Being accountable: Making sure you keep your employer, clients, customers, and other stakeholders in the loop by reporting software issues and other potential ethical issues in software development.
+Being honest: This is to be straightforward and truthful while describing your goods. Inform the audience if the vision changes
 
 
 Submission Guidelines:
